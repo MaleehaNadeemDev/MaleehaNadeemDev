@@ -9,8 +9,8 @@
 
 <br>
 
-<a href="https://github.com/maleehanadeem777-collab">
-  <img src="https://komarev.com/ghpvc/?username=maleehanadeem777-collab&label=Profile%20views&color=FF4FD8&style=for-the-badge" alt="Profile views">
+<a href="https://github.com/MaleehaNadeemDev">
+  <img src="https://komarev.com/ghpvc/?username=MaleehaNadeemDev&label=Profile%20views&color=FF4FD8&style=for-the-badge" alt="Profile views">
 </a>
 <img src="https://img.shields.io/badge/Focus-MERN%20Stack-8B5CF6?style=for-the-badge" alt="Focus: MERN Stack">
 <img src="https://img.shields.io/badge/Based%20in-Pakistan-FF9CE6?style=for-the-badge" alt="Based in Pakistan">
@@ -96,10 +96,10 @@ in **Advanced JavaScript** and **React** patterns.
 
 | Project | What it is | Built with |
 | :--- | :--- | :--- |
-| **[Aurora](https://github.com/maleehanadeem777-collab/aurora-notes)** | Note-taking app with folders, tags, pin/star/archive/trash and a command palette | `JavaScript (ES6)` `localStorage` `CSS` |
-| **[Aether](https://github.com/maleehanadeem777-collab/aether-weather)** | Real-time weather app with a "living sky" that reacts to conditions | `JavaScript` `Open-Meteo API` `CSS` |
-| **[movie-web](https://github.com/maleehanadeem777-collab/movie-web)** | Movie search and discovery built on the TMDB API | `JavaScript` `TMDB API` `CSS` |
-| **[Portfolio](https://github.com/maleehanadeem777-collab/final-portfolio)** | My personal portfolio site | `HTML` `CSS` `JavaScript` |
+| **[Aurora](https://github.com/MaleehaNadeemDev/aurora-notes)** | Note-taking app with folders, tags, pin/star/archive/trash and a command palette | `JavaScript (ES6)` `localStorage` `CSS` |
+| **[Aether](https://github.com/MaleehaNadeemDev/aether-weather)** | Real-time weather app with a "living sky" that reacts to conditions | `JavaScript` `Open-Meteo API` `CSS` |
+| **[movie-web](https://github.com/MaleehaNadeemDev/movie-web)** | Movie search and discovery built on the TMDB API | `JavaScript` `TMDB API` `CSS` |
+| **[Portfolio](https://github.com/MaleehaNadeemDev/final-portfolio)** | My personal portfolio site | `HTML` `CSS` `JavaScript` |
 
 ---
 
@@ -118,16 +118,16 @@ in **Advanced JavaScript** and **React** patterns.
 
 ### 📈 Contribution activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=maleehanadeem777-collab&bg_color=0E0418&color=FF9CE6&line=FF4FD8&point=8B5CF6&area_color=8B5CF6&title_color=FF4FD8&area=true&hide_border=true" alt="Contribution activity graph" width="98%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MaleehaNadeemDev&bg_color=0E0418&color=FF9CE6&line=FF4FD8&point=8B5CF6&area_color=8B5CF6&title_color=FF4FD8&area=true&hide_border=true" alt="Contribution activity graph" width="98%">
 
 <br><br>
 
 ### 🐍 Watch the contributions get eaten
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/maleehanadeem777-collab/maleehanadeem777-collab/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maleehanadeem777-collab/maleehanadeem777-collab/output/snake-light.svg">
-  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/maleehanadeem777-collab/maleehanadeem777-collab/output/snake-dark.svg" width="98%">
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/MaleehaNadeemDev/MaleehaNadeemDev/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MaleehaNadeemDev/MaleehaNadeemDev/output/snake-light.svg">
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/MaleehaNadeemDev/MaleehaNadeemDev/output/snake-dark.svg" width="98%">
 </picture>
 
 </div>
@@ -144,10 +144,10 @@ in **Advanced JavaScript** and **React** patterns.
 <a href="https://www.linkedin.com/in/maleeha-nadeem">
   <img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-<a href="https://github.com/maleehanadeem777-collab">
+<a href="https://github.com/MaleehaNadeemDev">
   <img src="https://img.shields.io/badge/GitHub-1A0730?style=for-the-badge&logo=github&logoColor=FF9CE6" alt="GitHub">
 </a>
-<a href="https://github.com/maleehanadeem777-collab/final-portfolio">
+<a href="https://github.com/MaleehaNadeemDev/final-portfolio">
   <img src="https://img.shields.io/badge/Portfolio-FF9CE6?style=for-the-badge&logo=vercel&logoColor=1A0730" alt="Portfolio">
 </a>
 
